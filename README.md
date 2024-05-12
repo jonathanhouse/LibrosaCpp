@@ -1,4 +1,4 @@
-# LibrosaCpp - MSAT
+# LibrosaCpp - MSAT1
 
 LibrosaCpp is a c++ implemention of librosa using Eigen
 
